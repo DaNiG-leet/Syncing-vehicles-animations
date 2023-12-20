@@ -1,0 +1,6 @@
+version=1
+id=2959512313
+title=Animations synchronization
+description=Test
+tags=Build 41;Misc;Models;Vehicles
+visibility=unlisted
